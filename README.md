@@ -14,7 +14,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 1. Clonez le dépôt de l'application :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/bocal_app.git
+   git clone https://github.com/CerbTech-Org/AEIG.git
    cd bocal_app
 
 2. Assurez-vous d'avoir toutes les dépendances nécessaires en exécutant :
